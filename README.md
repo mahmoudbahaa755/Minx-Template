@@ -1,1 +1,3 @@
-# Template-3
+# Minx Template
+live server:
+https://template-3-eight.vercel.app/
