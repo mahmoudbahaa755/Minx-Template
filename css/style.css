@@ -1,0 +1,155 @@
+.positionNextImg {
+    display: block;
+    position: absolute !important;
+    top: auto;
+    left: auto;
+    bottom: 0px;
+    right: 0px;
+    width: 33px !important;
+    height: 33px !important;
+    background-color: gray;
+    opacity: 0.6;
+}
+
+.book-Shape {
+    transform: rotate(15deg);
+}
+
+.light-brown-background {
+    background-color: #857d50;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.btn-Color {
+    background-color: rgb(65, 65, 65);
+    border: 6px solid gray;
+    color: whitesmoke;
+}
+
+.Line {
+    height: 3px;
+    width: 79px;
+    background-color: #857d50;
+    display: flex;
+}
+
+.mStyle {
+    position: relative;
+    top: -24px;
+    right: 4px;
+    font-size: 65px;
+    color: gray;
+    font-weight: 700;
+    text-shadow: 4px 0px whitesmoke;
+    float: left;
+    -webkit-text-stroke: 1px transparent;
+}
+
+.circle-article-bg {
+    background-color: #857d50;
+    padding: 5px;
+    border-radius: 50%;
+    margin-left: 41%;
+    margin-right: 41%;
+}
+
+.circle-article-icon {
+    background-color: #857d50;
+    padding: 11px;
+    border: 4px solid whitesmoke!important;
+    border-radius: 50%;
+}
+
+.circle-icon {
+    background: #444444;
+    padding: 3px;
+    border: 5px solid #212529!important;
+    border-radius: 50%;
+}
+
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid whitesmoke;
+    /* margin: 0px 50%; */
+}
+
+.arrow-up-blue {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid #212529;
+    margin: 0px 50%;
+}
+
+.circle-bg {
+    background: #444444;
+    padding: 2px;
+    border-radius: 50%;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.btn-bg {
+    background-color: #857d50;
+}
+
+.hoverd:hover {
+    color: whitesmoke;
+    z-index: 2;
+    text-decoration: none;
+}
+
+.color-gray {
+    color: #857d50;
+}
+
+.LATESTPOSTimg {
+    width: 190px;
+}
+
+.borderRaduios {
+    border-radius: 50% 0% 50% 50%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: -10px;
+}
+
+.end-Line {
+    position: relative;
+    right: -79px;
+    background: #ececec;
+    bottom: 3px;
+    width: 255px;
+}
+
+.light-brown {
+    color: #857d50;
+}
+
+.inner-div {
+    border-top: 5px solid #857d50;
+}
+
+.color-ray-blue-dark {
+    color: #4f6367;
+}
+
+.positionPrevImg {
+    display: block;
+    position: absolute !important;
+    top: auto;
+    right: 33px;
+    bottom: 0px;
+    right: 0px;
+    width: 33px !important;
+    height: 33px !important;
+    background-color: gray;
+    opacity: 0.6;
+}
